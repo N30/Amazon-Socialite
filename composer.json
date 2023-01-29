@@ -1,6 +1,6 @@
 {
   "name": "n30/socialite-amazon",
-  "description": "Laravel Socialite for Login with Amazon/AWS Accounts. Social Providers Extention Integrated with Soical Stream",
+  "description": "Laravel Socialite for Login with Amazon/AWS Accounts. Social Providers Extention Integrated with Soical Stream.",
   "keywords": [
     "amazon",
     "socialite",
@@ -34,12 +34,5 @@
       "name": "NEO NOS",
       "url": "https://github.com/n30"
     }
-  ],
-  "extra": {
-    "laravel": {
-      "providers": [
-        "SocialiteProviders\\Amazon\\AmazonServiceProvider"
-      ]
-    }
-  }
+  ] 
 }
