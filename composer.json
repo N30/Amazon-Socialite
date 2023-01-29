@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Revolution\\Socialite\\Amazon\\": "src"
+      "SocialiteProviders\\Amazon\\": "src"
     }
   },
   "authors": [
