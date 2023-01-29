@@ -15,8 +15,7 @@ class AmazonServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Socialite::extend(
-            'amazon',
+        Socialite::extend( 'amazon',
             function ($app) {
                 $config = $app['config']['services.amazon'];
 
