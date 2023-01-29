@@ -31,7 +31,7 @@
      "files": [
       "src/Provider.php",
       "src/AmazonServiceProvider.php",
-      "src/AmazonExtendSocialite.php",
+      "src/AmazonExtendSocialite.php"
     ]
   },
   "authors": [
