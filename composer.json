@@ -1,0 +1,45 @@
+{
+  "name": "n30/socialite-amazon",
+  "description": "Laravel Socialite for Login with Amazon/AWS Accounts. Login with Amazon is based on OAuth 2.0,",
+  "keywords": [
+    "amazon",
+    "socialite",
+    "laravel",
+    "socialiteproviders",
+    "socialstream",
+    "jetstream",
+    "oauth",
+    "oauth2",
+    "client",
+    "authorization",
+    "authorisation",
+    "amazon",
+    "livewire",
+    "tallstack",
+    "amazon-login"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^7.2||^8.0",
+    "ext-json": "*",
+    "laravel/socialite": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Revolution\\Socialite\\Amazon\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "NEO NOS",
+      "url": "https://github.com/n30"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "SocialiteProviders\\Amazon\\AmazonServiceProvider"
+      ]
+    }
+  }
+}
