@@ -1,6 +1,6 @@
 {
   "name": "n30/socialite-amazon",
-  "description": "Laravel Socialite for Login with Amazon/AWS Accounts. Login with Amazon is based on OAuth 2.0,",
+  "description": "Laravel Socialite for Login with Amazon/AWS Accounts. Social Providers Extention Integrated with Soical Stream",
   "keywords": [
     "amazon",
     "socialite",
