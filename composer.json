@@ -27,7 +27,12 @@
   "autoload": {
     "psr-4": {
       "SocialiteProviders\\Amazon\\": "src"
-    }
+    },
+     "files": [
+      "src/Provider.php",
+      "src/AmazonServiceProvider.php",
+      "src/AmazonExtendSocialite.php",
+    ]
   },
   "authors": [
     {
